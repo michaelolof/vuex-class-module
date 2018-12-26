@@ -1,5 +1,5 @@
-# Vuex Class Module
-
+# Vuex Class Module (Deprecated!)
+### Use Vuex Class Component on [Github](https://github.com/michaelolof/vuex-class-component) or [NPM](https://www.npmjs.com/package/vuex-class-component)
 This is a simple class that utilizes ES7 decorators to provide Syntatic Sugar which enables you declare Vuex Modules using ES6 Classes. 
 
 ## Dependencies
